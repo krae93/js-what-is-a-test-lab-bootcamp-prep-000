@@ -1,8 +1,8 @@
 // write your code below!
 var name = "Susan"
-var height = 74
-if(74 < 40){
-  console.log("74 is less than 40")
+var height = 74 < 40
+if(74 > 40){
+  console.log("74 is greater than 40")
 }else{
   console.log("74 is greather than 40")
 }
